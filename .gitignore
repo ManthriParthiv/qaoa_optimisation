@@ -4,6 +4,4 @@ myenv/
 **/*.pyc
 **/*.pyo
 **/node_modules/
-**/dist/
-**/build/
-myenv/node_modules/
+
