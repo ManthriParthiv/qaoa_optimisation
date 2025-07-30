@@ -1,0 +1,9 @@
+myenv/
+# Ignore Python virtual environment
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+**/node_modules/
+**/dist/
+**/build/
+myenv/node_modules/

@@ -1,0 +1,9 @@
+QAOA Optimization Project
+
+Steps to run:
+1. python run_all.py
+
+Structure:
+- preprocessing: data preparation (expected returns, covariance)
+- processing: QAOA quantum optimization
+- postprocessing: result display and plotting
